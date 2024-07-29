@@ -8,3 +8,4 @@ print(b+c)
 e = 20 
 f = 15
 print (e+f)
+print( d+e)
